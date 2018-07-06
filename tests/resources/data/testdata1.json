@@ -1,0 +1,5 @@
+{
+  "name" : "John",
+  "id":  "1",
+  "personas": ["Matt", "Mark", "Jon"]
+}
